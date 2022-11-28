@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [elkayal.me](elkayal.me)
 
-- 📝 I regularly write articles on [my website](https://elkayal.me/writings))
+- 📝 I regularly write articles on [my website](https://elkayal.me/writings)
 
 - 💬 Ask me about **react, vue, laravel**
 
